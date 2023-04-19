@@ -1,2 +1,2 @@
 hello
-int numberOfStudent =100
+int numberOfStudent =80
